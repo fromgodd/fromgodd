@@ -2,7 +2,6 @@
   <h3>Willkommen auf meiner GitHub-Seite👋</h3>
 </div>
 
-![](https://komarev.com/ghpvc/?username=fromgodd)
 
 ## Über mich
 - Hallo! Ich heiße Said und ich bin ein begeisterter Programmierer und Linux-Benutzer. Ich praktiziere Datenwissenschaft mit Polars, Spark, Pandas und NumPy und lerne funktionale Programmierung mit F# und Haskell. Meine aktuelle Software- und Hardware-Konfiguration sieht wie folgt aus:
